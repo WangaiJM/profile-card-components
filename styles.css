@@ -26,6 +26,10 @@ body {
   align-items: center;
   position: relative;
   background-color: var(--color-background);
+  background-image: url("./images/bg-pattern-top.svg"),
+    url("./images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 52dvw bottom 35dvh, left 48dvw top 52dvh;
 }
 .card {
   border-radius: 0.5rem;
