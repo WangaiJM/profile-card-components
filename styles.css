@@ -48,7 +48,7 @@ body {
   border: 0.5rem solid var(--color-white);
 }
 .card-body {
-  padding: 3em 6em;
+  padding: 2em 6em;
   text-align: center;
   background-color: var(--color-white);
 }
